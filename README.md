@@ -1,24 +1,4 @@
-# README
+[rails new](http://maetoo11.hatenablog.com/entry/2016/03/04/144216)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[How to beat nokogiri](http://qiita.com/south37/items/63c938474bf35b30c988)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
